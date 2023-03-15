@@ -8606,7 +8606,7 @@ input, select, textarea {
 				background-image: url('/images/hanks_portrait3.png');
 				
 				/* make a square container */
-				width: 434px;
+				width: 500px;
 				height: 434px;
 			
 				/* fill the container, preserving aspect ratio, and cropping to fit */
