@@ -1,0 +1,35 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Black Cherry",
+            "database": "charleshanks",
+            "username": "postgres",
+            "password": ""
+        },
+        {
+            "previewLimit": 50,
+            "server": "postgresql://postgres:9L4hrmGCpaXtekHALMrc@containers-us-west-78.railway.app:6933/railway",
+            "port": 6933,
+            "driver": "PostgreSQL",
+            "name": "divergent-brass",
+            "database": "railway",
+            "username": "postgres",
+            "password": "9L4hrmGCpaXtekHALMrc",
+            "connectString": "postgresql://postgres:00YYeojgwaBpK3D0cy4x@containers-us-west-78.railway.app:6933/railway"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "database": "fars",
+            "username": "postgres",
+            "name": "Local",
+            "password": ""
+        }
+    ]
+}
